@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+}
+
+.slider {
+    width: 85%;
+    overflow: hidden;
+}
+
+.slide {
+    float: left;
+    width: 85%;
+    display: none;
+}
+
+img {
+    width: 85%;
+    height: auto;
+}
